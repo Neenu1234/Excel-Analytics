@@ -1,6 +1,9 @@
 # Excel-Analytics
 
-Worked in
+Data Cleaning- Removed duplicates, calculated field, Renamed values
+Formulas- if condition
+Pivot Table
+Dashboard - slicers, Line graph, bar chart
 
 
 
